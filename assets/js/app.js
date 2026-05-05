@@ -156,7 +156,7 @@
     return {
       model: {
         name: "ST",
-        motorPicture: "Database/MotorPictures/ST.png"
+        motorPicture: "Database/MotorPictures/ST.webp?v=20260505"
       },
       parts: []
     };
